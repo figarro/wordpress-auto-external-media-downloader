@@ -34,7 +34,7 @@ cdn.example.com
 
 The plugin normalizes `http://`, `https://`, and trailing slashes. It also treats `www.example.com` as `example.com` and allows subdomains of an allowed domain. Do not include a path or URL parameters.
 
-![Configuration screen](./configuration.heic)
+![Configuration screen](configuration.png)
 
 ## How it works
 
