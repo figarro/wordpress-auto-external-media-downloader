@@ -5,6 +5,7 @@
  * Plugin URI: https://binaryfork.com
  * Description: Automatically downloads external media from whitelisted domains and replaces URLs with local copies
  * Version: 1.0.0
+ * Requires at least: 6.0
  * Author: Ionuț-Alexandru Popa
  * Author URI: https://www.linkedin.com/in/popaionut/
  * License: GPL-3.0

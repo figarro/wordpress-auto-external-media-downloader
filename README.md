@@ -42,9 +42,7 @@ Successfully downloaded files are added to the WordPress Media Library and the m
 
 ## Requirements
 
-- WordPress
-- A web server configured to allow WordPress to write to its uploads directory
-- Outbound HTTP access from the WordPress server to the configured media hosts
+- WordPress 6.0 or later
 
 ## License
 
