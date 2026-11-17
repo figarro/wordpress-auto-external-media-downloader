@@ -34,6 +34,8 @@ cdn.example.com
 
 The plugin normalizes `http://`, `https://`, and trailing slashes. It also treats `www.example.com` as `example.com` and allows subdomains of an allowed domain. Do not include a path or URL parameters.
 
+![Configuration screen](configuration.heic)
+
 ## How it works
 
 When a user with permission to edit a post saves it, the plugin checks the post content for media URLs in image, audio, video, and source elements, as well as direct links to supported audio and video files. It processes only external URLs whose hostname matches an allowed domain and whose file path has a supported media extension.
